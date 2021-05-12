@@ -1,1 +1,1 @@
-# download-amazonproduct-images
+# Download Amazon product images with AWS Product Advertising API5
